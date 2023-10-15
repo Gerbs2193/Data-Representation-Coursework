@@ -1,0 +1,14 @@
+#Author: Gerard Ball
+#Programme: Library.xml
+
+
+<library>
+    <catalogue name="technical">
+        <book ISBN="9780007203581" title="The Engineer Is Human" author="Henry Petroski"/>
+        <book ISBN="9780201006506" title="The Mythical Man-Month" author="Fred Brooks"/>
+    </catalogue>
+    <catalogue name="cookery">
+        <book ISBN="9780470171639" title="Betty Crocker Cookbook" author="Betty Crocker"/>
+        <book ISBN="9781838665289" title="The British Cookbook" author="Ben Mervis"/>
+    </catalogue>
+</library>
